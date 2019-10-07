@@ -5,7 +5,7 @@
 	* Milo Davis
 		* Pitt ID: mcd66
 		* GitHuber username: minnon
-		* Personal fork URL: 
+		* Personal fork URL: https://github.com/minnon/Team-1
 	* Andrew Welby
 		* Pitt ID: apw50
 		* GitHuber username: apw50
@@ -13,16 +13,16 @@
 	* Ken Lin
 		* Pitt ID: kel117
 		* GitHuber username: kel243
-		* Personal fork URL: 
+		* Personal fork URL: https://github.com/kel243/Team-1
 	* Linghai Wang
 		* Pitt ID: liw82
 		* GitHuber username: nxdens
-		* Personal fork URL: 
+		* Personal fork URL: https://github.com/nxdens/Team-1
 * Procedural generation sub-team
 	* Pedro Pallares
 		* Pitt ID: pep24
 		* GitHuber username: ppallares
-		* Personal fork URL: 
+		* Personal fork URL: https://github.com/ppallares/Team-1
 	* Keith Stebler
 		* Pitt ID: kcs66
 		* GitHuber username: KCS66
@@ -39,7 +39,7 @@
 	* Gareth Chapman
 		* Pitt ID: gjc26
 		* GitHuber username: gjchapmn
-		* Personal fork URL: 
+		* Personal fork URL: https://github.com/gjchapmn/Team-1
 	* Jonathan Zhang
 		* Pitt ID: jcz18
 		* GitHuber username: jcz18

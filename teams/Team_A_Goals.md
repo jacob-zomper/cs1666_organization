@@ -9,7 +9,7 @@
 	* Kennet Choo
 		* Pitt ID: kac311
 		* GitHuber username: TerableCoder
-		* Personal fork URL: 
+		* Personal fork URL: https://github.com/TerableCoder/teamAGame
 	* Faruk Yucel
 		* Pitt ID: fby1
 		* GitHuber username: fby1
@@ -39,7 +39,7 @@
 	* Brandon Bisceglia
 		* Pitt ID: brb162
 		* GitHuber username: BetterBrandon
-		* Personal fork URL: 
+		* Personal fork URL: https://github.com/BetterBrandon/teamAGame
 	* Jeroen Wolfe
 		* Pitt ID: jew134
 		* GitHuber username: jerrybear16

@@ -5,7 +5,7 @@
 	* Shawn Blake
 		* Pitt ID: smb255
 		* Githuber username: smb255
-		* Personal fork URL: 
+		* Personal fork URL: https://github.com/smb255/MerderMisstery
 	* Erick Brindock
 		* Pitt ID: esb43
 		* Githuber username: ErickBrindock
@@ -18,7 +18,7 @@
 	* Griffin Lynch
 		* Pitt ID: gtl6
 		* GitHuber username: gtl6
-		* Personal fork URL: 
+		* Personal fork URL: https://github.com/Gtl6/MerderMisstery
 	* Darpun Kohli
 		* Pitt ID: dak190
 		* GitHuber username: dkdude98
